@@ -3,7 +3,7 @@
 - 🌐 Operator of AS211535
 - 👩‍💻 I’m currently working on [Echleon](https://github.com/solemcaelum/echleon)
 - :airplane: Student Pilot!
-- :books: Trying to learn Docker
+- :books: Trying to learn BGP
 - :mailbox_closed: Feel free to contact me! I don't bite!
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V818EW0)
