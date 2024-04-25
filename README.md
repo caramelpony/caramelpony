@@ -1,5 +1,5 @@
 ### カラメル - Caramel
-- :yellow_heart: Pronouns: She/Her
+- :yellow_heart: Pronouns: It/Its/She/Her
 - 🌐 Operator of AS211535
 - 👩‍💻 I’m currently working on [Echleon](https://github.com/solemcaelum/echleon)
 - :airplane: Student Pilot!
