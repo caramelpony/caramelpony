@@ -9,12 +9,11 @@ I do **Systems Engineering** and operate a few **ASNs**¹ across various **netwo
 
 💍 - I’m married to my wonderful husband [**Mel**](https://devil.horse).
 
-You can find more about me here:
+You can find more about me here:\
 https://caramel.dog/
 
-My wiki, (when I get around to fixing it..)
-
-¹: wiki.carm.ml/asns
+My wiki, (when I get around to fixing it..)\
+¹: wiki.carm.ml/asns\
 ²: wiki.carm.ml/networks
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V818EW0)
