@@ -1,19 +1,13 @@
 ### カラメル - Caramel
 Hi! I’m **Caramel**.
 
-I’m **24**, from **Colorado**, use **It**/**Its**, and I’m 🏳️‍⚧️!
+I’m **24**, from **Colorado**, use **It**/**Its**, and I’m <img src="./flags/agender_flag.png" style="margin-left: 2px; margin-right: 2px;" width="24px" title="Agender Pride">!
 
-I do **Systems Engineering** and operate a few **ASNs**¹ across various **networks**².
+I do **Systems Engineering** and operate a few **ASNs**[¹](wiki.caramel.dog/asns) across various **networks**[²](wiki.caramel.dog/networks).
 
-🐕 - I’m a multi-theriotype therian who is primarily a puppy.
+🐈‍⬛ - I’m a multi-theriotype therian who is primarily a cat.
 
-💍 - I’m married to my wonderful husband [**Mel**](https://devil.horse).
+You can support me at [my store](https://store.caramel.dog)!
 
-You can find more about me here:\
-https://caramel.dog/
-
-My wiki, (when I get around to fixing it..)\
-¹: wiki.carm.ml/asns\
-²: wiki.carm.ml/networks
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V818EW0)
+### 88x31s
+Once I collect more, they will go here :3c
